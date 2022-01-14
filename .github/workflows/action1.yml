@@ -15,7 +15,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source_file: "index.html"
-          destination_repo: " shahidsarvani/test"
+          destination_repo: "shahidsarvani/test"
           destination_folder: "folder1"
           user_email: "hamza0952454@gmail.com"
           user_name: "HamzaZafarBhatti"
